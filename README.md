@@ -13,10 +13,10 @@
 - App内置风控策略 为了保证大家的利益App默认不开源（源码贩子自知）可提供不限次数编译
 
 ### 在线测试
-- 本项目演示地址： [点此测试](https://jmpay.jmkeji.net)
+- 本项目演示地址： [点此测试](http://jmpay.jmkeji.net)
 
 ### 开始部署
-- 本项目源码下载： [点此下载](https://jmpay.jmkeji.net)
+- 本项目源码下载： [点此下载](http://jmpay.jmkeji.net)
 
 ### 技术说明
 基于Laravel5，使用redis技术进行存储算法轮循规则，使用workerman作为websocket通讯技术与APP进行桥接，使用mysql作为数据库存储工具，系统自配置储存分离，分布式扩展，抗并发。  
