@@ -19,7 +19,7 @@
 - 本项目源码下载： [点此下载](http://jmpay.jmkeji.net)
 
 ### 技术说明
-基于Laravel5，使用redis技术进行存储算法轮循规则，使用workerman作为websocket通讯技术与APP进行桥接，使用mysql作为数据库存储工具，系统自配置储存分离，分布式扩展，抗并发。  
+基于Laravel5，使用redis技术进行存储算法轮循规则，使用workerman作为websocket通讯技术与APP进行桥接，使用mysql作为数据库存储工具，系统自配置储存分离，分布式扩展，抗并发。   
 
 ### 更新日志
 ###### 20200114版本更新
